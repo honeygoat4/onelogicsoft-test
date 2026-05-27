@@ -46,4 +46,5 @@ execution example:
            Preview: 12% of active job postings on Djinni already mention AI or LLMs. But the spread across categories is striking — from 3% in HR to 62% in Data Science.  What's interesting is how much neighboring catego
 
 
-✅ Done — liked 10 post(s).```
+✅ Done — liked 10 post(s).
+```
